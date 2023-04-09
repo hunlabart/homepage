@@ -1,0 +1,32 @@
+.home {
+  height: calc(100vh - 125px);
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+}
+
+.desc {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.nav {
+  margin: 55px 0 56px;
+}
+
+.link {
+  background: #fff;
+  height: 32px;
+  width: 122px;
+  border-radius: 12px;
+  line-height: 32px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  color: #000;
+  margin-top: 22px;
+}
