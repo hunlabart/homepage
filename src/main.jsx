@@ -24,7 +24,7 @@ const router = createBrowserRouter([
   },
   { path: "ar/list", element: <ARList /> },
   {
-    path: "ar/detail/:id",
+    path: "ar/detail/:arId",
     element: <ARDetail />,
   },
   {
@@ -32,7 +32,7 @@ const router = createBrowserRouter([
     element: <InteractiveList />,
   },
   {
-    path: "interactive/detail/:id",
+    path: "interactive/detail/:interactiveId",
     element: <InteractiveDetail />,
   },
 ]);
