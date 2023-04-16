@@ -1,3 +1,7 @@
+## webstie
+
+https://hunlabart.github.io/
+
 ## prd & ui
 https://docs.google.com/spreadsheets/d/15hyDSeNM6wd1F5tG9eqnHqP4_taK58LD/edit#gid=70893865
 
@@ -12,3 +16,4 @@ https://docs.google.com/spreadsheets/d/15hyDSeNM6wd1F5tG9eqnHqP4_taK58LD/edit#gi
 - [ ] 首页gif给压缩版本
 - [ ] 首页gif如果需要循环播放，需要导出循环播放版本
 - [ ] 字体需要确认是否使用设计字体
+
