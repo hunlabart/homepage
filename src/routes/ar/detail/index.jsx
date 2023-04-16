@@ -12,7 +12,7 @@ export default function ARDetailPage() {
     // LEGACY METHOD ONLY: registers the XRIFrame by iframe ID
     // window.XRIFrame.registerXRIFrame(IFRAME_ID)
     // checks if camera has been accepted in iframe before displaying controls
-    iframe.current.setAttribute("src", INNER_FRAME_URL); // This is where the AR iframe's source is set.
+    iframeRef.current.setAttribute("src", INNER_FRAME_URL); // This is where the AR iframe's source is set.
   };
 
   return (
