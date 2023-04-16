@@ -1,7 +1,7 @@
 // import 'amfe-flexible'
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import Home from "./routes/home";
 import VR from "./routes/vr";
 import ARList from "./routes/ar/list";
@@ -12,7 +12,7 @@ import InteractiveDetail from "./routes/interactive/detail";
 import ErrorPage from "./routes/error";
 import "./index.css";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Home />,
