@@ -1,0 +1,17 @@
+.list {
+  margin: 35px 21px 0;
+}
+
+.video {
+  height: 192px;
+  background: #c9c9c9;
+}
+
+.workName {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 18px;
+  margin: 24px 0;
+  color: #ffffff;
+}

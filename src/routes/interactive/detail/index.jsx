@@ -1,9 +1,14 @@
+import { useParams } from 'react-router-dom';
 import Layout from "../../../components/Layout";
+import WorkDetail from "../../../components/WorkDetail";
+import totalData from '../../../assets/ArtistArtworksInfo.json'
 
 export default function InteractiveDetailPage() {
+  let { interactiveId } = useParams();
+  const detail = totalData.find(it => it.id === interactiveId)
   return (
-    <Layout title="AR">
-      <div>InteractiveDetailPage</div>
+    <Layout title="InteractiveId">
+      <WorkDetail detail={detail} />
     </Layout>
   );
 }

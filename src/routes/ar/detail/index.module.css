@@ -1,0 +1,36 @@
+.artistInfo {
+  display: flex;
+  justify-content: space-between;
+  margin: 35px 21px 24px;
+}
+
+.avatar {
+  display: block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: #d9d9d9;
+}
+
+.name,
+.des {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.arWrapper,
+.video {
+  height: 192px;
+  margin: 0 21px 24px;
+  background: #c9c9c9;
+}
+
+.workDescription {
+  margin: 0 21px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 18px;
+}
