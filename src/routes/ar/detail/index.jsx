@@ -23,7 +23,7 @@ export default function ARDetailPage() {
   return (
     <Layout title="AR">
       <div className={s.artistInfo}>
-        <img className={s.avatar} src='' />
+        <img className={s.avatar} src={arDetail.artistPhoto} />
         <div className={s.info}>
           <p className={s.name}>{arDetail.name}</p>
           <p className={s.des}>Title,Year</p>
@@ -37,7 +37,9 @@ export default function ARDetailPage() {
           allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"
         ></iframe>
       </div>
-      <div className={s.video}></div>
+      <div className={s.video}>
+        <video src={arDetail.interviewVideo} />
+      </div>
       <div className={s.workDescription}>{arDetail.artworkDescription}</div>
     </Layout>
   );

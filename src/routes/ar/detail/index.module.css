@@ -27,6 +27,10 @@
   background: #c9c9c9;
 }
 
+.video video {
+  width: 100%;
+}
+
 .workDescription {
   margin: 0 21px;
   font-family: Roboto;
