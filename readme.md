@@ -16,10 +16,13 @@ artists: https://docs.google.com/spreadsheets/d/1510UNzbLfiygPUApaTMvjucB2RK4XVb
 
 - [x] ui去掉语言切换  
 - [ ] 首页gif给压缩版本
+- [ ] 网站icon
 - [ ] 首页gif如果需要循环播放，需要导出循环播放版本
 - [ ] 字体需要确认是否使用设计字体,并提供字体文件
-- [ ] 每个艺术家的头图需要提供相同大小的方图，以艺术家名字小写无空格命名，放在 src/assets/avatars
-- [ ] 每个艺术家的视频原文件，以艺术家名字小写无空格命名, 放在 src/assets/videos
+- [ ] /public/assets/艺术家名字小写不带空格/, 例如： public\assets\rinabernabei, 包含以下文件：
+  - 头图：avatar， 大小：144*144
+  - 视频：video
+  - 作品图： artwork1，artwork2，artwork3...
 
 ## dev
 
@@ -38,7 +41,7 @@ yarn build
 
 ## 艺术家资源目录
 
-/public/艺术家名字小写不带空格/
+/public/assets/艺术家名字小写不带空格/, 例如： public\assets\rinabernabei
 
 包含以下文件：
 - 头图：avatar， 大小：144*144
