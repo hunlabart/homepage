@@ -35,3 +35,13 @@ yarn build
 ```
 
 2. git commit & git push 
+
+## 艺术家资源目录
+
+/public/艺术家名字小写不带空格/
+
+包含以下文件：
+- 头图：avatar， 大小：144*144
+- 视频：video
+- 作品图： artwork1，artwork2，artwork3...
+
