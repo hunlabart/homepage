@@ -1,8 +1,8 @@
 import { useRef } from "react";
-import { useParams } from 'react-router-dom';
+import { useParams } from "react-router-dom";
 import Layout from "../../../components/Layout";
-import totalData from '../../../assets/ArtistArtworksInfo.json'
-import s from './index.module.css'
+import totalData from "../../../assets/ArtistArtworksInfo.json";
+import s from "./index.module.css";
 
 // todo
 const INNER_FRAME_URL = "https://8w.8thwall.app/inner-ar";
@@ -11,7 +11,7 @@ const IFRAME_ID = "my-iframe"; // iframe containing AR content.
 export default function ARDetailPage() {
   const iframeRef = useRef();
   let { arId } = useParams();
-  const arDetail = totalData.find(it => it.id === arId)
+  const arDetail = totalData.find((it) => it.id === arId);
 
   const handleStartAR = () => {
     // LEGACY METHOD ONLY: registers the XRIFrame by iframe ID
@@ -29,7 +29,7 @@ export default function ARDetailPage() {
           <p className={s.des}>Title,Year</p>
         </div>
       </div>
-      <div className={s.arWrapper}  onClick={handleStartAR}>
+      <div className={s.arWrapper} onClick={handleStartAR}>
         {/* <div onClick={handleStartAR}>start In AR</div> */}
         <iframe
           id={IFRAME_ID}
@@ -38,7 +38,17 @@ export default function ARDetailPage() {
         ></iframe>
       </div>
       <div className={s.video}>
-        <video src={arDetail.interviewVideo} />
+        {/* <video src={arDetail.interviewVideo} /> */}
+        <iframe
+          width="100%"
+          height="100%"
+          src={arDetail.interviewVideo}
+          // src="https://www.youtube.com/embed/8wcu6pwkdVU"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
       </div>
       <div className={s.workDescription}>{arDetail.artworkDescription}</div>
     </Layout>
