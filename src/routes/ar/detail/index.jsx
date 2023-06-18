@@ -17,7 +17,10 @@ export default function ARDetailPage() {
     // LEGACY METHOD ONLY: registers the XRIFrame by iframe ID
     // window.XRIFrame.registerXRIFrame(IFRAME_ID)
     // checks if camera has been accepted in iframe before displaying controls
-    iframeRef.current.setAttribute("src", INNER_FRAME_URL); // This is where the AR iframe's source is set.
+    // iframeRef.current.setAttribute("src", INNER_FRAME_URL); // This is where the AR iframe's source is set.
+    // 这里需要替换成每个艺术家自己的8thwall页面地址
+    const arUrl = arDetail.arApp || INNER_FRAME_URL
+    iframeRef.current.setAttribute("src", arUrl); // This is where the AR iframe's source is set.
   };
 
   return (
@@ -45,9 +48,9 @@ export default function ARDetailPage() {
           src={arDetail.interviewVideo}
           // src="https://www.youtube.com/embed/8wcu6pwkdVU"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
       <div className={s.workDescription}>{arDetail.artworkDescription}</div>

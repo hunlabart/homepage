@@ -25,6 +25,7 @@ artists: https://docs.google.com/spreadsheets/d/1510UNzbLfiygPUApaTMvjucB2RK4XVb
   - 作品图： artwork1，artwork2，artwork3...
 
 ## dev
+首次 yarn install 安装依赖
 
 ```
 yarn dev
