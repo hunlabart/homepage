@@ -19,7 +19,8 @@ export default function ARDetailPage() {
     // checks if camera has been accepted in iframe before displaying controls
     // iframeRef.current.setAttribute("src", INNER_FRAME_URL); // This is where the AR iframe's source is set.
     // 这里需要替换成每个艺术家自己的8thwall页面地址
-    const arUrl = arDetail.arApp || INNER_FRAME_URL
+    const arUrl = arDetail.arApp || INNER_FRAME_URL;
+    console.log("handleStartAR", arUrl);
     iframeRef.current.setAttribute("src", arUrl); // This is where the AR iframe's source is set.
   };
 
@@ -32,14 +33,18 @@ export default function ARDetailPage() {
           <p className={s.des}>Title,Year</p>
         </div>
       </div>
-      <div className={s.arWrapper} onClick={handleStartAR}>
-        {/* <div onClick={handleStartAR}>start In AR</div> */}
-        <iframe
+      <a href={arDetail.arApp}>
+        <div className={s.arWrapper}>View AR</div>
+      </a>
+      {/* <div className={s.arWrapper} onClick={handleStartAR}> */}
+      {/* <div className={s.arWrapper}> */}
+      {/* <div onClick={handleStartAR}>start In AR</div> */}
+      {/* <iframe
           id={IFRAME_ID}
           ref={iframeRef}
           allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"
-        ></iframe>
-      </div>
+        ></iframe> */}
+      {/* </div> */}
       <div className={s.video}>
         {/* <video src={arDetail.interviewVideo} /> */}
         <iframe
