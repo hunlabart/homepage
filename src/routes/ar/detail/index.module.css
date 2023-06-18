@@ -38,3 +38,17 @@
   font-weight: 300;
   line-height: 18px;
 }
+
+.link {
+  background: #fff;
+  height: 32px;
+  width: 122px;
+  border-radius: 12px;
+  line-height: 32px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  color: #000;
+  display: block;
+  margin: 40px auto;
+}

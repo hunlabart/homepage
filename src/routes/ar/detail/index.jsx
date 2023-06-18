@@ -33,9 +33,6 @@ export default function ARDetailPage() {
           <p className={s.des}>Title,Year</p>
         </div>
       </div>
-      <a href={arDetail.arApp}>
-        <div className={s.arWrapper}>View AR</div>
-      </a>
       {/* <div className={s.arWrapper} onClick={handleStartAR}> */}
       {/* <div className={s.arWrapper}> */}
       {/* <div onClick={handleStartAR}>start In AR</div> */}
@@ -59,6 +56,9 @@ export default function ARDetailPage() {
         ></iframe>
       </div>
       <div className={s.workDescription}>{arDetail.artworkDescription}</div>
+      <a href={arDetail.arApp} className={s.link}>
+        View AR
+      </a>
     </Layout>
   );
 }
