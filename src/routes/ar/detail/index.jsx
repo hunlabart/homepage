@@ -36,7 +36,7 @@ export default function ARDetailPage() {
       <div className={s.video}>
         <img src={arDetail.artworkPhoto} />
       </div>
-      <div className={s.workDescription}><h2>Artist Statement</h2> {arDetail.artworkDescription}</div>
+      <div className={s.workDescription}><h2>Artist Statement</h2> {arDetail.artworkDescription}</div><br/>
       <div className={s.video}>
         <iframe
           width="100%"
