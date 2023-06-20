@@ -49,6 +49,7 @@
   font-weight: 300;
   line-height: 18px;
   margin-bottom: 24px;
+  white-space: pre-line;
 }
 
 .workDescription h2 {

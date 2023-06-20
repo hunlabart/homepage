@@ -40,6 +40,7 @@
   font-size: 15px;
   font-weight: 300;
   line-height: 18px;
+  white-space: pre-line;
 }
 
 .workDescription h2 {
