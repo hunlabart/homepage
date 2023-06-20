@@ -22,8 +22,8 @@
     "artworkDescription": "This artwork combines the beauty of nature and artistic creativity, presenting a fresh and innovative perspective distinct from the traditional form of ceramics. The pond within the piece represents the landscapes and vitality of nature, while the water droplet effect imbues the artwork with dynamic movement and depth. \nThe glaze imparts a unique shine and transparency to the surface, evoking the appearance of actual water droplets on a pond. Through the meticulous application of the bubble underglaze technique, I have created mesmerizing natural effects in my artwork. This ongoing experimentation with the underglaze bubble technique represents my commitment to pushing the boundaries of my craft and exploring new artistic possibilities.",
     "note": "pond",
     "artworkPhoto": "/assets/elainekim/artwork.jpg",
-    "id": "elainekim"
-
+    "id": "elainekim",
+    "arApp":"https://hunlab.8thwall.app/elaine-kim"
   },
   {
     "part": "AR",
@@ -35,7 +35,8 @@
     "artworkDescription": "In these two works, Oyster Stack, 2023 and Vessel Stack, 2023, the intertidal realm and colonial history is a metaphor for human/nature relationships. These durational and precise methodologies highlight the attributes of care and sensitivity which must be centred on our cooperation with the natural world. \nHudson’s ceramics entwine colonial and contemporary life and marine organisms in a subtle yet compelling critique of perpetuating environmental exploitation. Her delicate, floating drawings evoke a sense of ephemerality or transience, reflecting the haunting loss that accompanies our rapidly changing world.",
     "note": "white model",
     "artworkPhoto": "/assets/carolhudson/artwork.jpg",
-    "id": "carolhudson"
+    "id": "carolhudson",
+    "arApp":"https://hunlab.8thwall.app/george-harvey"
   },
   {
     "part": "AR",
@@ -48,7 +49,7 @@
     "note": "dog",
     "id": "georgiahavey",
     "artworkPhoto": "/assets/georgiaharvey/artwork.gif",
-    "arApp":"hunlab.8thwall.app/george-harvey"
+    "arApp":"https://hunlab.8thwall.app/george-harvey"
   },
   {
     "part": "AR",
@@ -76,7 +77,7 @@
     "AR URL": "https://hunlab.8thwall.app/kate-robinson",
     "__EMPTY": "<a data-8code=\"ekw3b\"></a>\n<script src=\"//cdn.8thwall.com/web/share/embed8.js\"></script>",
     "id": "katerobinson",
-    "arApp":"hunlab.8thwall.app/kate-robinson"
+    "arApp":"https://hunlab.8thwall.app/kate-robinson"
   },
   {
     "part": "AR",
@@ -89,7 +90,7 @@
     "note": "coral",
     "artworkPhoto": "/assets/kellybrown/artwork.jpg",
     "id": "kellybrown",
-    "arApp":"hunlab.8thwall.app/kelly-brown"
+    "arApp":"https://hunlab.8thwall.app/kelly-brown"
   },
   {
     "part": "AR",
@@ -102,7 +103,7 @@
     "note": "land",
     "artworkPhoto": "/assets/kristenradge/artwork.jpg",
     "id": "kristenradge",
-    "arApp":"hunlab.8thwall.app/kristen-radge"
+    "arApp":"https://hunlab.8thwall.app/kristen-radge"
   },
   {
     "part": "AR",
@@ -115,7 +116,7 @@
     "note": "vase",
     "artworkPhoto": "/assets/rinabernabei/artwork.jpg",
     "id": "rinabernabei",
-    "arApp":"hunlab.8thwall.app/rina-bernabei"
+    "arApp":"https://hunlab.8thwall.app/rina-bernabei"
   },
   {
     "part": "AR",
@@ -128,7 +129,7 @@
     "note": "underwater",
     "artworkPhoto": "/assets/shiyalu/artwork.gif",
     "id": "shiyalu",
-    "arApp":"hunlab.8thwall.app/shiya-lu"
+    "arApp":"https://hunlab.8thwall.app/shiya-lu"
   },
   {
     "part": "VR",
