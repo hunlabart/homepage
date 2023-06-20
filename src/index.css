@@ -45,3 +45,8 @@ h1,h2,h3,h4,h5,p,a,main,section {
   line-height: 44px;
   text-align: center;
 }
+
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
+}

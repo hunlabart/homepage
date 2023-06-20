@@ -14,7 +14,9 @@ export default function InteractiveListPage() {
           return (
             <Link to={`/interactive/detail/${it.id}`} key={it.id}>
               <div className={s.item}>
-                <div className={s.video} />
+                <div className={s.video}>
+                  <img src={it.artworkPhoto} />{" "}
+                </div>
                 <p className={s.workName}>{it.artworkName}</p>
               </div>
             </Link>

@@ -3,8 +3,12 @@
 }
 
 .video {
-  height: 192px;
-  background: #c9c9c9;
+  min-height: 192px;
+  /* background: #c9c9c9; */
+}
+
+.video img {
+  width: 100%;
 }
 
 .workName {
