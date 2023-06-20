@@ -30,20 +30,14 @@ export default function ARDetailPage() {
         <img className={s.avatar} src={arDetail.artistPhoto} />
         <div className={s.info}>
           <p className={s.name}>{arDetail.name}</p>
-          <p className={s.des}>Title,Year</p>
+          <p className={s.des}>{arDetail.artworkName}</p>
         </div>
       </div>
-      {/* <div className={s.arWrapper} onClick={handleStartAR}> */}
-      {/* <div className={s.arWrapper}> */}
-      {/* <div onClick={handleStartAR}>start In AR</div> */}
-      {/* <iframe
-          id={IFRAME_ID}
-          ref={iframeRef}
-          allow="camera;gyroscope;accelerometer;magnetometer;xr-spatial-tracking;microphone;"
-        ></iframe> */}
-      {/* </div> */}
       <div className={s.video}>
-        {/* <video src={arDetail.interviewVideo} /> */}
+        <img src={arDetail.artworkPhoto} />
+      </div>
+      <div className={s.workDescription}><h2>Artist Statement</h2> {arDetail.artworkDescription}</div>
+      <div className={s.video}>
         <iframe
           width="100%"
           height="100%"
@@ -55,7 +49,7 @@ export default function ARDetailPage() {
           allowFullScreen
         ></iframe>
       </div>
-      <div className={s.workDescription}>{arDetail.artworkDescription}</div>
+      <div className={s.workDescription}><h2>Artist Bio</h2> {arDetail.artistBio}</div>
       <a href={arDetail.arApp} className={s.link}>
         View AR
       </a>

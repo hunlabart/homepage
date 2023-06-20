@@ -23,9 +23,9 @@
 }
 
 .video {
-  height: 192px;
+  min-height: 192px;
   margin: 0 21px 24px;
-  background: #c9c9c9;
+  /* background: #c9c9c9; */
 }
 
 .workDescription {

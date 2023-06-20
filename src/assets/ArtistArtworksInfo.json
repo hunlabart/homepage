@@ -9,7 +9,7 @@
     "artworkDescription": "I created these works as part of 'The Way We Live Now' collection to explore Biohistory. They are inspired by the upland swamp near my home in the Blue Mountains, featuring rare creatures and evidence of human activity. I chose traditional ceramic plates as my medium. I captured images of children playing on a bush track, a canoe crossing a lagoon, and the flight path of an endangered Giant Dragonfly or a helicopter. Using hand-building, surface decoration, and glazing techniques, I created borders of lagoon rushes, imprints of animal teeth, and human-made embellishments that connected the plates to their environments.",
     "note": "plate",
     "id": "adriennerichards",
-    "Artwork photo": "/assets/adriennerichards/artwork.jpg",
+    "artworkPhoto": "/assets/adriennerichards/artwork.gif",
     "arApp": "https://hunlab.8thwall.app/adrienne-richards"
   },
   {
@@ -21,7 +21,7 @@
     "artworkName": "Indigo Illusion",
     "artworkDescription": "This artwork combines the beauty of nature and artistic creativity, presenting a fresh and innovative perspective distinct from the traditional form of ceramics. The pond within the piece represents the landscapes and vitality of nature, while the water droplet effect imbues the artwork with dynamic movement and depth. \nThe glaze imparts a unique shine and transparency to the surface, evoking the appearance of actual water droplets on a pond. Through the meticulous application of the bubble underglaze technique, I have created mesmerizing natural effects in my artwork. This ongoing experimentation with the underglaze bubble technique represents my commitment to pushing the boundaries of my craft and exploring new artistic possibilities.",
     "note": "pond",
-    "Artwork photo": "/assets/elainekim/artwork.jpg",
+    "artworkPhoto": "/assets/elainekim/artwork.jpg",
     "id": "elainekim"
 
   },
@@ -34,7 +34,7 @@
     "artworkName": "Oyster Stack/Vessel Stack",
     "artworkDescription": "In these two works, Oyster Stack, 2023 and Vessel Stack, 2023, the intertidal realm and colonial history is a metaphor for human/nature relationships. These durational and precise methodologies highlight the attributes of care and sensitivity which must be centred on our cooperation with the natural world. \nHudson’s ceramics entwine colonial and contemporary life and marine organisms in a subtle yet compelling critique of perpetuating environmental exploitation. Her delicate, floating drawings evoke a sense of ephemerality or transience, reflecting the haunting loss that accompanies our rapidly changing world.",
     "note": "white model",
-    "Artwork photo": "/assets/carolhudson/artwork.jpg",
+    "artworkPhoto": "/assets/carolhudson/artwork.jpg",
     "id": "carolhudson"
   },
   {
@@ -47,7 +47,7 @@
     "artworkDescription": "These sculptures are inspired by the processes of mineral solutions dripping in caves and weather-eroding soft substances from hard ones. They resemble stalagmites and are a hybrid of sculpture and cave formation, evoking both decomposition and deity. The works are a reinterpretation of Renaissance and neoclassical grotti and sentinel statuary but set in a future where they crumble and accrete in the fading of human existence. They also reflect on the anthropomorphisation of natural cave formations, where we search for familiar features and assign them identities as if they were members of a silent underground community.",
     "note": "dog",
     "id": "georgiahavey",
-    "Artwork photo": "/assets/georgiaharvey/artwork.gif",
+    "artworkPhoto": "/assets/georgiaharvey/artwork.gif",
     "arApp":"hunlab.8thwall.app/george-harvey"
   },
   {
@@ -59,7 +59,7 @@
     "artworkName": "Still the water: Meltdown",
     "artworkDescription": "My journey to Antarctica left me feeling overwhelmed and humbled by the enormity and beauty. I witnessed the ever-changing and fragile icescapes: melting, cracking, falling, floating, and flowing. It made me reflect on my vulnerability and ephemeral existence. Time seemed to be still in the vastness, yet it seemed to accelerate. Porcelain, with its ice-like purity, translucency, and ability to reflect surrounding colours, felt like the appropriate material to capture this place. The Antarctic is under increasing threat from rising temperatures, the ice is breaking at an unprecedented pace. Sadly, this process cannot be arrested: the water cannot be stilled.",
     "note": "iceberg",
-    "Artwork photo": "/assets/jandownes/artwork.jpg",
+    "artworkPhoto": "/assets/jandownes/artwork.jpg",
     "id": "jandownes",
     "arApp":"https://hunlab.8thwall.app/jand-downes/"
   },
@@ -72,7 +72,7 @@
     "artworkName": "Black Prince Crowns，2020 \nClenbrook Melaleuca Treearas，2022",
     "artworkDescription": "My ceramic sculptures are inspired by plein-air sketches and paintings. I believe in the importance of recognising our dependence on the world we inhabit, and my tree tiaras and crowns remind us of the sentinel power of these lifeforms. During the lockdowns, I began creating landscapes on hand-made tiles and continue to explore connection through large, hand-built stoneware vessels. Ceramics allows me to learn about the elemental forces that shape our planet and embrace the serendipity of the process. I'm thrilled to combine art, technology, and play. It feels like a full-circle journey from my career designing technology-mediated learning experiences.",
     "note": "tree",
-    "Artwork photo": "/assets/katerobinson/artwork.jpg",
+    "artworkPhoto": "/assets/katerobinson/artwork.jpg",
     "AR URL": "https://hunlab.8thwall.app/kate-robinson",
     "__EMPTY": "<a data-8code=\"ekw3b\"></a>\n<script src=\"//cdn.8thwall.com/web/share/embed8.js\"></script>",
     "id": "katerobinson",
@@ -87,7 +87,7 @@
     "artworkName": "Reef Remnants",
     "artworkDescription": "I love creating each work, from planning and feeling the clay in my hands to the excitement and uncertainty of firing. I use three clays and Amaco mid-fire glazes to explore texture and colour. My pieces draw inspiration from the natural world of oceans and waterways, reflecting otherworldly organic forms that provide visual variation and habitats for other creatures. My artistic endeavour converges tactile and technical processes with the ideas and feelings of the subject matter, capturing a moment in time in an enduring object. My values of nature, simplicity, tranquillity, diversity, and beauty are reflected in my work.",
     "note": "coral",
-    "Artwork photo": "/assets/kellybrown/artwork.jpg",
+    "artworkPhoto": "/assets/kellybrown/artwork.jpg",
     "id": "kellybrown",
     "arApp":"hunlab.8thwall.app/kelly-brown"
   },
@@ -100,7 +100,7 @@
     "artworkName": "Encountering Sites Disrupted",
     "artworkDescription": "Kristen Radge's art responds to her experience as a settler on traditional lands, using disruption, encounter, and trace to situate her body in connection with history. She examines foraged clay in Guringai Country to identify a dialogue communicating a historical context of community and culture. Touch with foraged clay is essential in her practice as she examines her agency through methods that speak of experience while working on sites historically embedded in colonial land ownership, conflict and struggle. Kristen surveys a dialogue with foraged ochre clay that is crucial to remain on site, translating the essence of country through materiality.",
     "note": "land",
-    "Artwork photo": "/assets/kristenradge/artwork.jpg",
+    "artworkPhoto": "/assets/kristenradge/artwork.jpg",
     "id": "kristenradge",
     "arApp":"hunlab.8thwall.app/kristen-radge"
   },
@@ -113,7 +113,7 @@
     "artworkName": "Virtual Ikebana",
     "artworkDescription": "The flower \nFlowers require care and nurturing, embodying a multi-sensory experience and symbolising positive interactions with nature. The relationship with flowers exemplifies embodied aesthetics through immersion in nature. \nThe vase \nFlower vases have a long history in many cultures, and often are the only remaining evidence from vanished cultures. They serve as a stage for the beauty of flowers, providing structure to the arrangements. They root the flowers in specific a time and place, representing the abundance of the natural environment and the positive emotions they bring to our lives. \nThe act \nIn this concept, archetypal ceramic vases are used to anchor and present ever-changing digital floral arrangements. The vases act as a stage for the theatrical performance of nature's beauty, interacting with the flowers as an actor would.\n",
     "note": "vase",
-    "Artwork photo": "/assets/rinabernabei/artwork.jpg",
+    "artworkPhoto": "/assets/rinabernabei/artwork.jpg",
     "id": "rinabernabei",
     "arApp":"hunlab.8thwall.app/rina-bernabei"
   },
@@ -126,7 +126,7 @@
     "artworkName": "Submerged",
     "artworkDescription": "I draw inspiration from underwater sculptures by Jason deClaires Taylor, who is known for installing sculptures in the ocean and letting the forces of nature transform them into spectacular living art. I want to elicit the imagination of a vibrant marine world. The colours and tactile textures were achieved by combining slips, stains, underglaze and glaze, and spontaneously dripping, splashing, dabbing the brush, and ‘dancing’ with the vessel while the glaze was still running. Traces of my ephemeral expressive action were encapsulated in physical forms. I juxtaposed positive elements with negative space. These layered visual features enhance the visual tension and evoke a sense of fluidity like ocean waves.",
     "note": "underwater",
-    "Artwork photo": "/assets/shiyalu/artwork.gif",
+    "artworkPhoto": "/assets/shiyalu/artwork.gif",
     "id": "shiyalu",
     "arApp":"hunlab.8thwall.app/shiya-lu"
   },
@@ -139,7 +139,7 @@
     "artworkName": "Loud Materials & Brilliant Earth VR",
     "artworkDescription": "Loud Materials is a collection of sculptures inspired by the spontaneity of Sumi brushstrokes and Bernini's terracotta sketches. The phantasmagorical Landscapes extend the Shan-Shui genre, with gestural disruptions marking embodied landscape forms. As a deaf artist, Collins uses the installation to sense her body moving through space and sound. The glaze materials are expressionistic, frozen in flux, and appear unstable and spontaneous. The sensuality of the surfaces invites you to feel Landscapes in motion, with silver clouds billowing up like fossilised vapour. Some artworks also include small texts reflecting on the artist's experience of disability and isolation during the pandemic.",
     "note": "mushroom",
-    "Artwork photo": "/assets/kirstycollins/artwork.jpg",
+    "artworkPhoto": "/assets/kirstycollins/artwork.jpg",
     "id": "kirstycollins"
   },
   {
@@ -151,6 +151,7 @@
     "artworkName": "Human Regeneration - The Worlds We Cannot See",
     "artworkDescription": "The Worlds We Cannot See is a series of ceramic artworks exploring the relationship between life and death in nature. Fungi break down organisms to produce mushrooms, creating new life from death. The artwork highlights the regeneration process and the role of fungal networks in transferring nutrients to other organisms. Clay is used to capture these moments, and the glaze enhances the decomposition to regeneration theme. The human body is present but the fungal organisms are dominant, emphasising the relationship between humans and non-human organisms. The use of ceramics captures a singular moment in the regeneration cycle.",
     "note": "mountain",
+    "artworkPhoto": "/assets/tikarobinson/artwork.jpg",
     "id": "tikarobinson"
   },
   {
@@ -162,6 +163,7 @@
     "artworkName": "Seasons",
     "artworkDescription": "Joseph Turrin's ceramic practice is inspired by nature, and he experiments with form, colour, and texture. From functional tableware to unique vessels and sculptures, Turrin's approach is playful, with coil-building as the primary technique. The shapes he explores are traditional, informed by his love of ceramics history and found objects. Vibrant colours and intricate details highlight the markers of finger marks. Each piece is a site for experimentation of texture, colour, and functionality, and Turrin often uses discarded everyday objects to shape them. ‘Ceramics is meant to be touched’ Turrin says, so this tactility and obvious use of the hand is evident in all his works.",
     "note": "touch",
+    "artworkPhoto": "/assets/josephturrin/artwork.gif",
     "id": "josephturrin"
   }
 ]
