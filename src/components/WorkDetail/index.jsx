@@ -3,7 +3,7 @@ import s from "./index.module.css";
 
 export default function WorkDetail({ detail }) {
   return (
-    <Layout title="VR">
+    <>
       <div className={s.artistInfo}>
         <img className={s.avatar} src={detail.artistPhoto} />
         <div className={s.info}>
@@ -28,6 +28,6 @@ export default function WorkDetail({ detail }) {
       </div>
       
       <div className={s.workDescription}><h2>Artist Bio</h2>{detail.artistBio}</div>
-    </Layout>
+    </>
   );
 }
