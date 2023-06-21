@@ -16,7 +16,7 @@ export default function ARListPage() {
             return (
               <Link to={`/ar/detail/${it.id}`} key={it.id}>
                 <div className={s.item}>
-                  <img src={it.artistPhoto} className={s.avatar} />
+                  <img src={it.artworkIcon} className={s.avatar} />
                   <p className={s.name}>{it.name}</p>
                 </div>
               </Link>

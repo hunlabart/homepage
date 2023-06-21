@@ -36,6 +36,9 @@ export default function ARDetailPage() {
       <div className={s.video}>
         <img src={arDetail.artworkPhoto} />
       </div>
+      <a href={arDetail.arApp} className={s.link}>
+        View AR
+      </a>
       <div className={s.workDescription}><h2>Artist Statement</h2> {arDetail.artworkDescription}</div><br/>
       <div className={s.video}>
         <iframe
@@ -50,9 +53,6 @@ export default function ARDetailPage() {
         ></iframe>
       </div>
       <div className={s.workDescription}><h2>Artist Bio</h2> {arDetail.artistBio}</div>
-      <a href={arDetail.arApp} className={s.link}>
-        View AR
-      </a>
     </Layout>
   );
 }
