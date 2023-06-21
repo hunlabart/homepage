@@ -7,7 +7,7 @@ export default function InteractiveDetailPage() {
   let { interactiveId } = useParams();
   const detail = totalData.find(it => it.id === interactiveId)
   return (
-    <Layout title="InteractiveId">
+    <Layout title="Interactive">
       <WorkDetail detail={detail} />
     </Layout>
   );

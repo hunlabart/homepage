@@ -16,7 +16,7 @@
 
 .name,
 .des {
-  font-family: Roboto;
+  font-family: Helvetica;
   font-size: 15px;
   font-weight: 300;
   color: #ffffff;
@@ -30,7 +30,7 @@
 
 .workDescription {
   margin: 0 21px;
-  font-family: Roboto;
+  font-family: Helvetica;
   font-size: 15px;
   font-weight: 300;
   line-height: 18px;
