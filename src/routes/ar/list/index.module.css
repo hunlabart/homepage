@@ -23,7 +23,7 @@
 }
 
 .name {
-  font-family: Roboto;
+  font-family: Helvetica;
   font-size: 15px;
   font-weight: 500;
   text-align: center;
@@ -32,7 +32,7 @@
 }
 
 .desc {
-  font-family: Roboto;
+  font-family: Helvetica;
   font-size: 15px;
   font-weight: 300;
   color: #FFFFFF;
