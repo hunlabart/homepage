@@ -43,7 +43,7 @@
   },
   {
     "part": "AR",
-    "name": "Georgia Havey",
+    "name": "Georgia Harvey",
     "artistPhoto": "/assets/georgiaharvey/avatar.png",
     "artworkIcon": "/assets/georgiaharvey/artworkicon.png",
     "artistBio": "Georgia Harvey is a Melbourne/Naarm-based ceramicist who hand-builds small sculptural forms with various textures. She is a Painting graduate of RMIT and an objects conservator who draws inspiration from artefacts she encountered during her conservation work. Georgia uses materials sourced from walks in the mountains, wadis, or around the block. Her desert experiences in the United Arab Emirates also influence her work. Georgia aims to have a minimal carbon footprint in her practice and reclaims studio waste for reuse. She incorporates leftover material concoctions into new artworks or glazes, demonstrating her commitment to sustainability.\n\nTechnologist\nAR coding: Bo-Han Chen, Yiding Li \n3D design: Danae Kyriakaki",
@@ -51,7 +51,7 @@
     "artworkName": "Cave Clam, 2023",
     "artworkDescription": "These sculptures are inspired by the processes of mineral solutions dripping in caves and weather-eroding soft substances from hard ones. They resemble stalagmites and are a hybrid of sculpture and cave formation, evoking both decomposition and deity. The works are a reinterpretation of Renaissance and neoclassical grotti and sentinel statuary but set in a future where they crumble and accrete in the fading of human existence. They also reflect on the anthropomorphisation of natural cave formations, where we search for familiar features and assign them identities as if they were members of a silent underground community.",
     "note": "dog",
-    "id": "georgiahavey",
+    "id": "georgiaharvey",
     "artworkPhoto": "/assets/georgiaharvey/artwork.gif",
     "arApp":"https://hunlab.8thwall.app/george-harvey"
   },
